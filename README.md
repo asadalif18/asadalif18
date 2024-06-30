@@ -86,7 +86,7 @@ Experienced Python Developer
 
 ## 📈 GitHub Stats:
 
-<a href="http://www.github.com/asadalif18"><img src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=22c55e&icon_color=64748b" alt="asad-centrox's GitHub Stats" /></a>
+<a href="http://www.github.com/asadalif18"><img src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=22c55e&icon_color=64748b" alt="asad-ali's GitHub Stats" /></a>
 
 <a href="http://www.github.com/asadalif18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asadalif18&theme=default&hide_border=true&background=00000000&stroke=22c55e&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e" alt="GitHub Streak" /></a>
 
