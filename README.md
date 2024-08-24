@@ -39,11 +39,11 @@ Experienced Python Developer
 &nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asadalif18)
 &nbsp;&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/ali)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/26982476/asad-ali)
 &nbsp;&nbsp;
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-f3f3f3?logo=huggingface&logoColor=ffcc00)](https://huggingface.co/ali)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asad-centrox)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asadalif18)
 
 
 
