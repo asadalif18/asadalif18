@@ -90,12 +90,12 @@ Experienced Python Developer
 
 <a href="http://www.github.com/asadalif18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asadalif18&theme=default&hide_border=true&background=00000000&stroke=22c55e&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/asad-centrox">
+<a href="https://github.com/asadalif18">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&layout=compact&bg_color=00000000&theme=default&text_color=22c55e&icon_color=6366f1&hide_border=true&count_private=true" alt="Top Languages"/>
 </a>
 
-<a href="https://github.com/asad-centrox" align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-centrox&count_private=true&bg_color=00000000&point=FF64DA&line=111F68&title_color=6366f1&color=22c55e" alt="Asad Ali's GitHub Contribution Graph"/>
+<a href="https://github.com/asadalif18" align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadalif18&count_private=true&bg_color=00000000&point=FF64DA&line=111F68&title_color=6366f1&color=22c55e" alt="Asad Ali's GitHub Contribution Graph"/>
 </a>
 
 
