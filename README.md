@@ -104,6 +104,6 @@ Experienced Python Developer
 
 
 ---
-[![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)
+[![GitHub Followers](https://img.shields.io/github/followers/asadalif18?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asalif8)
 &nbsp;&nbsp;
-[![Visitor Count](https://komarev.com/ghpvc/?username=asad-centrox)](https://github.com/asad-centrox)
+[![Visitor Count](https://komarev.com/ghpvc/?username=asadlif18)](https://github.com/asadalif18)
