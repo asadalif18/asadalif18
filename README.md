@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Experienced Python Developer
 ----------------------------
 ## 💫 About Me:
-🚀 Welcome to my GitHub profile! I'm an accomplished Full-Stack Python Developer with a passion for crafting cutting-edge AI/ML solutions, intuitive chatbots, dynamic web applications, and revolutionary computer vision systems. With over 5 years of experience, I'm dedicated to driving innovation and delivering impactful results.
+🚀 Welcome to my GitHub profile! I'm an accomplished Full-Stack Python Developer with a passion for crafting cutting-edge AI/ML solutions, intuitive chatbots, dynamic web applications, Generative AI systems, and revolutionary computer vision systems. With over 5 years of experience, I'm dedicated to driving innovation and delivering impactful results.
 
 🎓 *Experience*: Cultivating a legacy of excellence in AI/ML engineering and full-stack development for more than 5 years.
 
