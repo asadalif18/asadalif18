@@ -29,24 +29,6 @@ Experienced Python Developer
 ----------------------------
 
 
-<!--
-## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:asadalif18@gmail.com)
-&nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ali)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadalif18/)
-&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asadalif18)
-&nbsp;&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/26982476/asad-ali)
-&nbsp;&nbsp;
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-f3f3f3?logo=huggingface&logoColor=ffcc00)](https://huggingface.co/ali)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asadalif18)
--->
-
-
 ## 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
