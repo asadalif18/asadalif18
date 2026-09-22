@@ -237,8 +237,8 @@ Structured data extraction from passports and invoices using **Surya OCR + Claud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&hide_border=true&bg_color=0d1224&title_color=22d3ee&icon_color=a78bfa&text_color=c8d3e4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadalif18&layout=compact&hide_border=true&bg_color=0d1224&title_color=22d3ee&text_color=c8d3e4&langs_count=8&card_width=320" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=asadalif18&show_icons=true&hide_border=true&bg_color=0d1224&title_color=22d3ee&icon_color=a78bfa&text_color=c8d3e4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadalif18&layout=compact&hide_border=true&bg_color=0d1224&title_color=22d3ee&text_color=c8d3e4&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </p>
 
 <p align="center">
