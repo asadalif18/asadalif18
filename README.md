@@ -1,91 +1,278 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asad Ali
-================================================================================================================================
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Asad+Ali;Senior+AI%2FML+%26+Computer+Vision+Engineer;LLM+Agents+%7C+MCP+Servers+%7C+RAG+%7C+Voice+AI;Building+production-grade+AI+systems" alt="Typing SVG" />
+</h1>
 
-Experienced Full Stack Python Developer and AI/ML Engineer
-----------------------------
-## 💫 About Me:
-🚀 Welcome to my GitHub profile! I'm an accomplished Full-Stack Python Developer with a passion for crafting cutting-edge AI/ML solutions, intuitive chatbots, dynamic web applications, Generative AI systems, and revolutionary computer vision systems. With over 5 years of experience, I'm dedicated to driving innovation and delivering impactful results.
+<p align="center">
+  <a href="https://asadalif18.github.io/"><img src="https://img.shields.io/badge/Portfolio-asadalif18.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/asadalif18/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:asadalif18@gmail.com"><img src="https://img.shields.io/badge/Email-asadalif18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="tel:+923060122333"><img src="https://img.shields.io/badge/Phone-%2B92%20306%200122333-34D399?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+</p>
 
-🎓 *Experience*: Cultivating a legacy of excellence in AI/ML engineering and full-stack development for more than 5 years.
-
-🔍 *Specializations*: <br>
-  - *Custom AI/ML Solutions*: Turning data into actionable insights for informed decision-making. <br>
-  - *Custom Chatbots*: Enhancing engagement and communication through intuitive conversational agents. <br>
-  - *Custom Computer Vision Solutions*: Unlocking efficiency and innovation through vision algorithms. <br>
-  - *Custom Web Applications*: Architecting scalable solutions tailored to unique client needs.
-  
-💡 *Skills*:
-  - *Programming Languages*: Python, JavaScript, C#
-  - *Frameworks*: Flask, Django, FastAPI
-  - *Frontend Technologies*: React, HTML, CSS, JavaScript, Bootstrap
-  - *Databases*: MySQL, PostgreSQL, MongoDB, SQLite
-  - *APIs*: RESTful APIs, GraphQL
-  - *Cloud Platforms*: AWS, GCP, Azure
-  - *DevOps*: Docker, Kubernetes, CI/CD
-  - *Data Science & ML*: TensorFlow, PyTorch, OpenCV, NLTK, Keras, Pandas, NumPy, Matplotlib, Scikit-learn, MLflow, Plotly
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" height="60" /> Let's connect and explore the possibilities of technology-driven success together!
-----------------------------
-
-
-## 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%23FFD800.svg?style=for-the-badge&logo=tkinter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23800000.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%23007ACC.svg?style=for-the-badge&logo=gradio&logoColor=white)
-
-
-## 📈 GitHub Stats:
-
-<a href="http://www.github.com/asadalif18"><img src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=22c55e&icon_color=64748b" alt="asad-ali's GitHub Stats" /></a>
-
-<a href="http://www.github.com/asadalif18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asadalif18&theme=default&hide_border=true&background=00000000&stroke=22c55e&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e" alt="GitHub Streak" /></a>
-
-<a href="https://github.com/asadalif18">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&layout=compact&bg_color=00000000&theme=default&text_color=22c55e&icon_color=6366f1&hide_border=true&count_private=true" alt="Top Languages"/>
-</a>
-
-<a href="https://github.com/asadalif18" align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadalif18&count_private=true&bg_color=00000000&point=FF64DA&line=111F68&title_color=6366f1&color=22c55e" alt="Asad Ali's GitHub Contribution Graph"/>
-</a>
-
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asadalif18&theme=monokai&no-bg=true&no-frame=true&margin-w=4&margin-h=4)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asadalif18&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-a78bfa?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Models%20Deployed-150%2B-818cf8?style=for-the-badge" alt="Models Deployed" />
+  <img src="https://img.shields.io/badge/Global%20Clients-45%2B-34D399?style=for-the-badge" alt="Clients" />
+</p>
 
 ---
-[![GitHub Followers](https://img.shields.io/github/followers/asadalif18?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asalif8)
-&nbsp;&nbsp;
-[![Visitor Count](https://komarev.com/ghpvc/?username=asadlif18)](https://github.com/asadalif18)
+
+## 🧠 About Me
+
+Senior **AI/ML, Computer Vision & LLM Engineer** based in Islamabad, Pakistan — architecting production-grade intelligent systems for **US, UK, EU, UAE, AU & CA** clients.
+
+I build across the modern AI stack:
+- 👁️ **Computer Vision** — detection, segmentation, OCR, tracking, video analytics
+- 🤖 **LLM Agents** — LangGraph, CrewAI, AutoGen with tool calling & memory
+- 🔌 **MCP Servers** — Model Context Protocol integrations for secure tool use
+- 📚 **RAG Pipelines** — GraphRAG, RAPTOR, hybrid retrieval with reranking
+- 🎙️ **Voice AI** — streaming STT/TTS for real-time voice assistants
+- ⚡ **Edge AI** — TensorRT, Jetson Orin, DeepStream for on-device inference
+- 🐍 **Full Stack Python** — FastAPI, Django, scalable backend services
+
+> *"Research that doesn't reach production isn't finished."*
+
+---
+
+## 🚀 Featured Projects
+
+### 🎙️ Real-Time Voice Assistant · *US Insurance Provider*
+Sub-700ms round-trip voice agent combining **Whisper Turbo + Deepgram** (STT), **GPT-4.1** (reasoning), **ElevenLabs** (TTS), with **LangGraph** agents and an **MCP server** for secure policy data access.
+`↓ 42% call handling time` · `Whisper` `Deepgram` `GPT-4.1` `LangGraph` `MCP` `FastAPI`
+
+### 🌐 Multi-Agent RAG Platform · *Global Consulting Firm*
+**LangGraph**-orchestrated agents with **CrewAI** sub-agents, **GraphRAG + RAPTOR** retrieval, and an **MCP server** exposing SharePoint, Confluence, and Jira tools. Includes reranking, citations, and per-user ACLs.
+`↓ 45% research time` · `80K+ docs indexed` · `LangGraph` `CrewAI` `MCP` `Pinecone`
+
+### 🛒 Retail Shelf Intelligence · *US Grocery Chain*
+Real-time shelf monitoring with custom **YOLOv11** + **PaddleOCR v5** for SKU-level stock and planogram detection.
+`↓ 34% stockouts` · `↑ 21% on-shelf availability` · `YOLOv11` `FastAPI` `React`
+
+### 🔬 PCB Defect Detection · *UK Electronics Manufacturer*
+Automated optical inspection (AOI) running on **Jetson Orin** with **TensorRT-optimized YOLOv12**.
+`99.5% accuracy` · `140 FPS @ edge` · `↓ 82% manual QC` · `YOLOv12` `TensorRT` `Jetson Orin`
+
+### 🛡️ PPE Compliance Monitoring · *Australian Mining Operator*
+Multi-camera safety system using **RT-DETR + BoT-SORT** for helmets, vests, harnesses, and zone intrusions.
+`↓ 63% safety incidents` · `RT-DETR` `BoT-SORT` `DeepStream`
+
+### 🩺 MedScan — Multimodal Diagnostic Assistant · *US Healthcare*
+Vision-LLM system combining **DINOv2 + EfficientNet-V2** classifiers with **GPT-4.1** for radiology report generation. HIPAA-compliant.
+`↑ 31% triage speed` · `DINOv2` `Grad-CAM` `AWS SageMaker`
+
+### 🚗 Smart City ANPR · *UAE Municipality*
+City-scale vehicle recognition with **YOLOv11 + PaddleOCR v5**, plus **Qwen2.5-VL** fallback.
+`99.1% ANPR accuracy` · `60+ camera feeds` · `Kafka` `PostgreSQL`
+
+### 💳 Document Intelligence & KYC · *UK Fintech*
+Structured data extraction from passports and invoices using **Surya OCR + Claude 3.7 Sonnet** with a human-in-the-loop review UI.
+`↓ 87% manual review` · `99.3% field accuracy` · `FastAPI` `PostgreSQL`
+
+### 📈 Autonomous Financial Research Agent · *Canadian Fintech*
+**CrewAI** agents analyzing filings, earnings calls, and news — with **MCP** tool exposure and streaming React dashboard.
+`↓ 68% analyst time` · `CrewAI` `MCP` `GPT-4.1` `Claude 3.7`
+
+> **See all case studies →** [asadalif18.github.io](https://asadalif18.github.io/#projects)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👁️ Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/YOLOv12-22d3ee?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/RT--DETR-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/GroundingDINO-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/DINOv2-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAM%202.1-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/PaddleOCR%20v5-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-22d3ee?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/BoT--SORT-22d3ee?style=flat-square" />
+</p>
+
+### 🧠 Deep Learning & LLMs
+<p>
+  <img src="https://img.shields.io/badge/PyTorch%202.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/GPT--4.1-10a37f?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%203.7-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama%204-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-536DFE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qwen%203-5E35B1?style=flat-square" />
+</p>
+
+### 🤖 AI Agents & Orchestration
+<p>
+  <img src="https://img.shields.io/badge/MCP%20Protocol-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents-10a37f?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-6C47FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</p>
+
+### 📚 RAG & Vector Databases
+<p>
+  <img src="https://img.shields.io/badge/GraphRAG-a78bfa?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAPTOR-a78bfa?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Weaviate-4B6EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
+
+### 🎙️ Voice AI (STT / TTS)
+<p>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20Realtime-10a37f?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AssemblyAI-2E5FEB?style=flat-square" />
+</p>
+
+### ⚡ Edge AI & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAK--D%2FDepthAI-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiDAR-22d3ee?style=flat-square" />
+</p>
+
+### 🐍 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+</p>
+
+### ☁️ Cloud, DevOps & MLOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" />
+</p>
+
+### 🎨 Frontend & Prototyping
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **AI / CV / LLM Engineer** | Freelance · Global Clients | Jan 2026 – Present |
+| **Senior Lead AI Engineer** | Integrated Robust Solution | Jun 2025 – Dec 2025 |
+| **Senior AI/ML Research Associate** | Frontier Works Organization (FWO) | Jan 2025 – Jun 2025 |
+| **Software Engineer — AI/ML** | Max Tech | Mar 2024 – May 2025 |
+| **AI & ML Engineer** | Centrox AI | Sep 2023 – Feb 2024 |
+| **AI & ML Intern** | Safe City Command & Control Center | Jun 2023 – Sep 2023 |
+| **Python Developer Intern** | Codeaza Tech | Jun 2023 – Jul 2023 |
+| **Computer Architecture Intern** | NECOP | Jul 2021 – Sep 2021 |
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| AI Web Developer — Top 25% Globally | TestDome | Aug 2025 | [View →](https://www.testdome.com/certificates/22238188db4349a6a4d563b5543bd26e) |
+| Google Crowdsource Learning Program | Google | Sep 2023 | [View →](https://drive.google.com/drive/folders/1aZPGVgN8PJy6oJVHXSFUONW0AU6827h6) |
+| Registered PEC Computer Engineer | PEC | Mar 2023 | [Verify →](https://www.pec.org.pk/) |
+| IBM AI Engineering Professional | IBM | Feb 2023 | [Badge →](https://www.credly.com/badges/8c74053b-f05d-4089-9669-5427061a61a2/) |
+| AI Capstone Project with Deep Learning | IBM | Feb 2023 | [View →](https://www.coursera.org/account/accomplishments/certificate/SNV8K4ZBQYW5) |
+| Deep Learning with TensorFlow | IBM | Feb 2023 | [Badge →](https://www.credly.com/badges/763fde28-13bd-4e22-8d72-420d211f1e04/) |
+| Deep Neural Networks with PyTorch *(Honors)* | IBM | Feb 2023 | [Badge →](https://www.credly.com/badges/1edb0884-cab5-48a1-9f9a-6b566e9274f8/) |
+| Computer Vision & Image Processing Essentials | IBM | Jan 2023 | [Badge →](https://www.credly.com/badges/d275c455-bc0e-4406-9435-943a3716cc1b/) |
+| Deep Learning Essentials with Keras | IBM | Jan 2023 | [Badge →](https://www.credly.com/badges/176c18a1-56c9-4b1d-a4b5-bc46c1c584e5/) |
+| Machine Learning with Python *(Honors)* | IBM | Jan 2023 | [Badge →](https://www.credly.com/badges/faefe4b8-bd84-4d03-8750-34bc96900328/) |
+
+---
+
+## 🎓 Education
+
+**🎓 Master of Science in Artificial Intelligence** — National University of Technology (NUTECH), Islamabad *(2024 – 2026)*
+
+**🎓 Bachelor of Science in Computer Engineering** — National University of Technology (NUTECH), Islamabad *(2018 – 2022)*
+
+---
+
+## 🏅 Awards
+
+- 🥇 **Winner** — 3rd Engineering Capstone Expo 2022 · *Pakistan Engineering Council (PEC)*
+- 🥇 **Project Exhibition Winner** — GIKI NEO-22 · *GIKI*
+- 🎖️ **NCAP Award** — NUTECH Career Acceleration Program · *NUTECH*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1224&title_color=22d3ee&icon_color=a78bfa&text_color=c8d3e4" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadalif18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1224&title_color=22d3ee&text_color=c8d3e4&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadalif18&theme=tokyonight&hide_border=true&background=0d1224&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 What I Can Help You With
+
+- 🔬 **Computer Vision** — detection, segmentation, tracking, OCR, video analytics
+- 🤖 **LLM Agents & MCP** — autonomous workflows, tool use, multi-agent orchestration
+- 📚 **RAG Systems** — GraphRAG, hybrid retrieval, citations, ACL-aware systems
+- 🎙️ **Voice AI** — real-time STT/TTS pipelines with sub-second latency
+- ⚡ **Edge AI** — Jetson deployment with TensorRT optimization
+- 🐍 **Python Backend** — FastAPI/Django services, model-serving APIs
+- 🚀 **MLOps** — CI/CD for ML, monitoring, retraining pipelines
+- 👥 **Team Leadership** — mentoring, architecture, stakeholder alignment
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://asadalif18.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asadalif18/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asadalif18@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <em>Available for select <strong>US · UK · EU · UAE · AU · CA</strong> engagements.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+</p>
