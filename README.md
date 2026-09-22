@@ -196,7 +196,6 @@ Structured data extraction from passports and invoices using **Surya OCR + Claud
 | **Senior AI/ML Research Associate** | Frontier Works Organization (FWO) | Jan 2025 – Jun 2025 |
 | **Software Engineer — AI/ML** | Max Tech | Mar 2024 – May 2025 |
 | **AI & ML Engineer** | Centrox AI | Sep 2023 – Feb 2024 |
-| **AI & ML Intern** | Safe City Command & Control Center | Jun 2023 – Sep 2023 |
 | **Python Developer Intern** | Codeaza Tech | Jun 2023 – Jul 2023 |
 | **Computer Architecture Intern** | NECOP | Jul 2021 – Sep 2021 |
 
@@ -238,12 +237,12 @@ Structured data extraction from passports and invoices using **Surya OCR + Claud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1224&title_color=22d3ee&icon_color=a78bfa&text_color=c8d3e4" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadalif18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1224&title_color=22d3ee&text_color=c8d3e4&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asadalif18&show_icons=true&hide_border=true&bg_color=0d1224&title_color=22d3ee&icon_color=a78bfa&text_color=c8d3e4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadalif18&layout=compact&hide_border=true&bg_color=0d1224&title_color=22d3ee&text_color=c8d3e4&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadalif18&theme=tokyonight&hide_border=true&background=0d1224&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asadalif18&hide_border=true&background=0d1224&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c8d3e4&dates=57657e&currStreakNum=22d3ee&sideNums=c8d3e4" alt="GitHub Streak" />
 </p>
 
 ---
